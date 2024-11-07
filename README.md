@@ -12,6 +12,6 @@ The code we developed in coursework where we gained experience with large langua
 
 # Datasets included
 1. `annotated_trees_101.csv` - The tagged CMV data from [Discourse Parsing for Contentious, Non-Convergent Online Discussions](https://ojs.aaai.org/index.php/ICWSM/article/view/18109).
-2. `bad_tone_nodes_with_generated_messages_chat_gpt_3_5_turbo.csv`  - The synthetic moderations replying to negative toned utterances generated using ChatGPT 3.5-Turbo API. 
+2. `bad_tone_nodes_with_generated_messages_chat_gpt_3_5_turbo.csv`  - The synthetic moderations replying to negative toned utterances generated using ChatGPT 3.5-Turbo API.
 
 Our coursework report is included.
